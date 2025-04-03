@@ -1,4 +1,4 @@
-package com.company;// CompanyFactoryMethod.java - All classes in a single file
+package com.company;
 import java.util.*;
 
 // Employee interface

@@ -90,7 +90,7 @@ public class OrderTest {
         Item item2 = new Item("Phone", 500, 2);
 
         Order order = new Order(Arrays.asList(item1, item2), "USA", "CA", "Los Angeles");
-        System.out.printf("Total Order Cost: $%.2f%n", order.getOrderTotal()); // Formatting for better readability
+        System.out.printf("Total Order Cost: $%.2f%n", order.getOrderTotal());
     }
 }
 

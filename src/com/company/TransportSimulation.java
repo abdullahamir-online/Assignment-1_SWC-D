@@ -1,4 +1,4 @@
-package com.company;// TransportCompositionPattern.java - Composition Design Pattern
+package com.company;
 
 // Engine interface
 interface Engine {
