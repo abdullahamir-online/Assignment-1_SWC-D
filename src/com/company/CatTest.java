@@ -45,7 +45,7 @@ public class CatTest {
         Fish fish = new Fish();
 
         cat.eat(sausage); // Now cat can eat sausage
-        cat.eat(fish);    // Cat can eat fish too! 🐟
+        cat.eat(fish);    // Cat can eat fish too!
     }
 }
 
